@@ -1,2 +1,3 @@
-# Unity-Nintendo-3DS
- 
+<h1>Nintendo 3DS Game Template for Unity</h1>
+<p>This is a <strong>template</strong> for creating Nintendo 3DS games in Unity. It includes project settings to improve the user experience when playing your game, but <u>does not</u> contain any scripts. To use this template, you will need to have Unity 5.6 installed, as well as the Nintendo 3DS module.</p>
+<p>This template can help you get started with building your own 3DS game in Unity, even if you are new to game development. With the necessary project settings and assets included, you can focus on building and creating your game, rather than spending time setting up the project.</p>
